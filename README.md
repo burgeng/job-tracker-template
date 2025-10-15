@@ -16,7 +16,4 @@
 
 ## 📦 Offline version
 If you prefer Excel:
-- Download [`job_tracker_template.xlsx`](job_tracker_template.xlsx)
-
----
-
+- Download [`job_tracker_template.xlsx`](Job_App_SheetTemplate.xlsx)
